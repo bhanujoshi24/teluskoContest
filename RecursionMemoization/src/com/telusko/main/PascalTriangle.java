@@ -12,7 +12,7 @@ import java.util.Scanner;
 //1   3    3   1
 //
 
-public class Factorial {
+public class PascalTriangle {
 	private static List<List<Integer>> memoizeTable = new ArrayList<>();
 
 	public static void main(String[] args) {
