@@ -25,7 +25,7 @@ For Day 2 of the assignment, I have created a video explaining the Stream API in
 
 ##### Blog Post
 
-To supplement the video, I have written a detailed blog post titled "Exploring the Power of Stream API in Java: Fetching Product Details and Filtering Out-of-Warranty Products". The blog post provides an in-depth explanation of the Stream API, its features, and benefits. It also includes code examples and step-by-step explanations of fetching product details based on place and filtering out-of-warranty products using both a `for-each` loop and the Stream API. You can read the blog post on Medium [here](link-to-your-medium-blog-post) to gain a deeper understanding of the topic.
+To supplement the video, I have written a detailed blog post titled "Exploring the Power of Stream API in Java: Fetching Product Details and Filtering Out-of-Warranty Products". The blog post provides an in-depth explanation of the Stream API, its features, and benefits. It also includes code examples and step-by-step explanations of fetching product details based on place and filtering out-of-warranty products using both a `for-each` loop and the Stream API. You can read the blog post on Medium [here](https://medium.com/@jbhanu718/stream-api-and-additional-product-functions-in-java-b922509e071e) to gain a deeper understanding of the topic.
 
 By watching the video and reading the blog post, you'll have a solid grasp of the Stream API in Java and how to utilize it for various data processing tasks, as demonstrated through the example functions for fetching product details and filtering out-of-warranty products.
 
