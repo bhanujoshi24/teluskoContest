@@ -21,7 +21,7 @@ To complement the video, I have written a detailed blog post titled "Mastering P
 
 ##### Video Explanation
 
-For Day 2 of the assignment, I have created a video explaining the Stream API in Java and demonstrating its usage. In this video, I cover the basics of the Stream API, including how to create streams, perform intermediate and terminal operations, and leverage the functional programming features of the API. Additionally, I showcase the implementation of two additional functions: fetching product details based on place and filtering out-of-warranty products using both a traditional `for-each` loop and the Stream API. You can watch the video on YouTube [here](link-to-your-youtube-video) to learn more.
+For Day 2 of the assignment, I have created a video explaining the Stream API in Java and demonstrating its usage. In this video, I cover the basics of the Stream API, including how to create streams, perform intermediate and terminal operations, and leverage the functional programming features of the API. Additionally, I showcase the implementation of two additional functions: fetching product details based on place and filtering out-of-warranty products using both a traditional `for-each` loop and the Stream API. You can watch the video on YouTube [here](https://youtu.be/2wYEL_MJJ-k) to learn more.
 
 ##### Blog Post
 
